@@ -1,0 +1,43 @@
+body{
+    font-family: 'Outfit', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #d6e2f0;
+}
+
+.qr-code {
+    width: 348px;
+    height: 546px;
+    background-color: #fff;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.img-qr {
+
+    width: 100%;
+    border-radius: 15px;
+    
+}
+
+.align{
+    padding: 20px;
+}
+
+.titulo{
+    font-weight:700 ;
+    font-size: 22px;
+    padding: 0 30px;
+}
+
+.textinho {
+    font-weight: 400;
+    font-size: 17px;
+    padding: 20px 35px;
+    color: rgb(149, 152, 161);
+}
